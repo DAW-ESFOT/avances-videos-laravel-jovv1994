@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7491d986-949e-47d9-9f4b-f4d088b78bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Article.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_11_27_001617_create_articles_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +171,8 @@
       <workItem from="1606498976951" duration="95000" />
       <workItem from="1606513863205" duration="561000" />
       <workItem from="1606514948666" duration="691000" />
-      <workItem from="1606528744667" duration="1664000" />
+      <workItem from="1606528744667" duration="2488000" />
+      <workItem from="1606582586656" duration="2199000" />
     </task>
     <servers />
   </component>
