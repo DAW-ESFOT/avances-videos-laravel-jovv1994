@@ -87,6 +87,11 @@ return [
         'name' => env('MAIL_FROM_NAME', 'Example'),
     ],
 
+    'to' => [
+        'address' => 'john.vasconez@epn.edu.ec',
+        'name' => 'John Vásconez'
+    ],
+
     /*
     |--------------------------------------------------------------------------
     | Markdown Mail Settings
